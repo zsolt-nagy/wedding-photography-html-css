@@ -25,3 +25,8 @@ See the wireframes folder for a low-level wireframe.
 ## Inspiration
 
 https://www.marianagamaweddings.com/ 
+
+## Credits 
+
+- Font Awesome Pinterest and Facebook icons (https://fontawesome.com)
+                        
